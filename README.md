@@ -1,1 +1,1 @@
-# KivyTextures
+# KivyTex
